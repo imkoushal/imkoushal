@@ -1,116 +1,128 @@
-<h1 align="center">Hi 👋, I'm Koushal Ray</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring ML Engineer | Problem Solver</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Koushal%20Ray&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55&descAlign=60" />
+</p>
+
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=>+_System.init('Aspiring_ML_Engineer');>+_Loading_Neural_Networks...;>+_Optimizing_Hyperparameters...;>+_Executing_Code_Flawlessly()" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="60%">
+
+### 🧠 Core_Directives.py
+
+```python
+class KoushalRay(Developer):
+    def __init__(self):
+        self.education = "B.Tech CSE (3rd Year)"
+        self.passions  = ["Machine Learning", "Data Science", "Web Dev"]
+        self.mission   = "Crack GATE & Become a Top ML Engineer"
+        
+    def current_state(self):
+        return [
+            "Building dynamic frontends with React",
+            "Training advanced NLP models",
+            "Grinding DSA for maximum efficiency (5-6 hrs/day)"
+        ]
+```
+</td>
+<td width="40%" align="center">
+
+### 📡 Comm_Link 
+<br>
+<a href="https://www.linkedin.com/in/koushal-kishor-ray-1024652b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<br><br>
+<a href="mailto:koushalkishor304@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send_Signal-D14836?style=for-the-badge&logo=gmail" />
+</a>
+<br><br>
+<a href="https://github.com/imkoushal">
+  <img src="https://img.shields.io/badge/GitHub-Access_Logs-100000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 About Me
-
-* 🎓 3rd Year B.Tech CSE Student
-* 💡 Interested in **Machine Learning, Data Science, and Software Development**
-* 🧠 Strong in **C++** and intermediate in **Python**
-* 🌐 Frontend Developer with **React**, learning backend development
-* 📊 Currently exploring **ML, NLP, and Data Science**
-* 🎯 Goal: Crack **GATE** and become a **top ML Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨💻 Languages
-
-* C++ (Advanced)
-* Python (Intermediate)
-* JavaScript
-
-### 🌐 Web Development
-
-* React.js
-* HTML, CSS
-* Express (Learning)
-
-### 🤖 Machine Learning
-
-* Natural Language Processing (NLP)
-* Text Classification
-* Model Evaluation
-
-### 🧰 Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Scikit-learn / Pandas / NumPy
-
----
-
-## 📌 Projects
-
-### 🔍 Fake News Detector (ML + NLP Project)
-
-**Overview:**
-A machine learning-based system that analyzes news content and classifies it as **Real or Fake**, with a focus on detecting AI-generated misinformation.
-
-**Key Features:**
-
-* 🧠 Text-based classification using NLP techniques
-* ⚡ Real-time input analysis
-* 🔍 Detects patterns in fake vs real news
-* 📊 Model evaluation using accuracy and performance metrics
-
-**Tech Stack:**
-
-* Python
-* NLP (TF-IDF / Count Vectorization)
-* Scikit-learn (Logistic Regression / Naive Bayes)
-* Pandas & NumPy
-
-**How It Works:**
-
-1. Input news text
-2. Preprocessing (cleaning, stopword removal, tokenization)
-3. Feature extraction using TF-IDF
-4. Classification using ML model
-5. Output: Fake or Real
-
-**Future Improvements:**
-
-* 🚀 Deploy as a web app (React + Flask/Express)
-* 🤖 Use Deep Learning (LSTM / Transformers)
-* 🌍 Add multilingual support
-* 🔗 API integration
-
-👉 GitHub Repo: <!-- Add your repo link here -->
-
----
-
-## 📈 Current Focus
-
-* Improving **DSA for GATE & Placements**
-* Strengthening **Backend Development**
-* Building **Advanced ML Projects**
-* Learning **System Design Basics**
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">🔋 Neural Stack (Skill Arsenal)</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,express,git,github,vscode&perline=10" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak"/>
+  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine_Learning-FF6A00?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Numpy-Mathematics-777BB4?style=for-the-badge&logo=numpy" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+### 📂 Classified Projects
 
-* LinkedIn: <!-- Add your link -->
-* Email: <!-- Add your email -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ Fake News Detector 
+*(Machine Learning & NLP)*
+<br><br>
+A robust AI system formulated to analyze news content and automatically classify it as <b>Real or Fake</b>, effectively combating AI-generated misinformation. Features a streamlined preprocessing pipeline and high-accuracy realtime evaluation.<br><br>
+
+<b>Tech Specs:</b><br>
+<code>Python</code> <code>TF-IDF</code> <code>Naive Bayes</code> <code>Scikit-learn</code><br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Access_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 Future Upgrades
+*(Incoming Enhancements)*
+<br><br>
+Currently researching and planning expansions to the core ML engine to push classification boundaries further.<br><br>
+
+<b>Development Focus:</b><br>
+<code>Deep Learning (LSTMs)</code> <code>Transformer Models</code><br>
+<code>Multilingual API Support</code> <code>React Web App</code><br><br>
+
+<img src="https://img.shields.io/badge/Status-In_Development-FFA500?style=for-the-badge&logo=git&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Fun Fact
+<h3 align="center">📈 Telemetry & Logs</h3>
 
-I feel productive when I solve DSA problems, build projects, and study consistently for 5–6 hours a day 🚀
+<div align="center">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imkoushal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Koushal's GitHub Stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imkoushal&theme=tokyonight&hide_border=true&background=0D1117" alt="Koushal's GitHub Streak" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imkoushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
+
+---
+<div align="center">
+  <i>Every great algorithm begins with a single line of code.</i><br>
+  <b>[ System Operation Nominal ]</b> 🚀
+</div>
