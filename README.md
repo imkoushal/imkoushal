@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/imkoushal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=>+_System.init('Aspiring_ML_Engineer');>+_Loading_Neural_Networks...;>+_Preparing_For_GATE_CSE...;>+_Building_Intelligent_Web_Apps...;>+_Executing_Code_Flawlessly()" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=>+_System.init('AI_Engineer');>+_Building_RAG_Pipelines_&_LLM_Apps...;>+_Optimizing_FastAPI_&_LangChain...;>+_Executing_Code_Flawlessly()" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,41 +32,41 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### 🧠 Core_Directives.py
 
 ```python
-class KoushalRay(Developer):
+class KoushalRayDeveloper:
     def __init__(self):
-        self.name      = "Koushal Kishor Ray"
-        self.role      = "AI & Machine Learning Engineer"
-        self.education = "B.Tech CSE (3rd Year)"
-        self.mission   = "Crack GATE CSE & Build Scalable AI Systems"
-        self.passions  = ["Machine Learning", "NLP", "Data Science", "Full-Stack Dev"]
-        
-    def current_state(self):
+        self.name        = "Koushal Kishor Ray"
+        self.role        = "AI Engineer | RAG Pipelines | LLM Applications"
+        self.stack       = "Build AI Products with Python & FastAPI"
+        self.education   = "B.Tech CSE — Parul University, Vadodara"
+        self.building    = "CareerLens — AI career navigator for Indian CS students"
+
+    def current_focus(self):
         return [
-            "Building AI backends with Python & FastAPI",
-            "Training NLP & classification models (Scikit-Learn)",
-            "Crafting dynamic web interfaces with React & TypeScript",
-            "Grinding DSA for peak algorithmic efficiency"
+            "Building RAG pipelines with LangChain + Chroma",
+            "LLM integrations: Claude API, Groq LLaMA 3, Gemini",
+            "AI Agents with LangGraph and MCP Protocol",
+            "Production FastAPI backends with streaming + evals",
         ]
 ```
 </td>
-<td width="40%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 ### 📡 System Status
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-Machine_Learning-FF6A00?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI_&_LLM_Apps-FF6A00?style=for-the-badge&logo=python&logoColor=white" />
 <br><br>
 <img src="https://img.shields.io/badge/Status-Active_Building-00FF99?style=for-the-badge&logo=git&logoColor=black" />
 <br><br>
-<img src="https://img.shields.io/badge/Target-GATE_CSE_2026-8A2BE2?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 <br><br>
-<img src="https://img.shields.io/badge/Open_To-Collaborations-0077B5?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_To-AI_Engineer_Roles-0077B5?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </td>
 </tr>
@@ -78,24 +78,70 @@ class KoushalRay(Developer):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,fastapi,html,css,tailwind,express,nodejs,git,github,vscode,linux,postman&perline=8" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,html,css,tailwind,express,nodejs,git,github,vscode,linux,postman&perline=8" alt="Skill Icons" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D4A853?style=for-the-badge&logo=anthropic&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Natural_Language_Processing-FF6A00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6A00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Featured Repositories & Projects
+<h3 align="center">📜 Certifications</h3>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Issuer</th>
+      <th align="left">Certification</th>
+      <th align="center">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Anthropic</b></td>
+      <td>AI Fluency for Students</td>
+      <td align="center"><code>2026</code></td>
+    </tr>
+    <tr>
+      <td><b>Anthropic</b></td>
+      <td>AI Fluency: Framework & Foundations — Generative AI</td>
+      <td align="center"><code>2026</code></td>
+    </tr>
+    <tr>
+      <td><b>Anthropic</b></td>
+      <td>Claude 101 — Generative AI & Prompt Engineering</td>
+      <td align="center"><code>2026</code></td>
+    </tr>
+    <tr>
+      <td><b>Cisco</b></td>
+      <td>Python Essentials 1</td>
+      <td align="center"><code>2026</code></td>
+    </tr>
+    <tr>
+      <td><b>Cisco</b></td>
+      <td>Python Essentials 2</td>
+      <td align="center"><code>2026</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📂 Featured Repositories
 
 <table width="100%">
 <tr>
@@ -116,15 +162,15 @@ An AI-powered fake news detection system built with FastAPI and Scikit-Learn. Us
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [SYNTHVIS](https://github.com/imkoushal/SYNTHVIS)
-*(TypeScript & WebGL / Audio Visualizer)*
+### 🛡️ [VerifPay](https://github.com/imkoushal/VerifPay)
+*(AI-Powered Fraud Detection & Security)*
 <br><br>
-A real-time, audio-reactive procedural visualizer built with TypeScript and WebGL/Three.js. Uses Web Audio API for frequency spectrum extraction and dynamic shader animation.<br><br>
+AI-powered financial fraud and scam detection for Indian consumers. Built for American Express Codestreet 2026. 5-model ML ensemble + RAG pipeline with Groq LLaMA 3 + Telegram bot @KoushalFakeNewsBot. Detects UPI fraud, phishing, and India-specific scams.<br><br>
 
 <b>Tech Specs:</b><br>
-<code>TypeScript</code> <code>WebGL</code> <code>Three.js</code> <code>Web Audio API</code><br><br>
+<code>Python</code> <code>FastAPI</code> <code>Groq</code> <code>RAG</code> <code>scikit-learn</code><br><br>
 
-<a href="https://github.com/imkoushal/SYNTHVIS">
+<a href="https://github.com/imkoushal/VerifPay">
   <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -132,21 +178,6 @@ A real-time, audio-reactive procedural visualizer built with TypeScript and WebG
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ [VerifPay](https://github.com/imkoushal/VerifPay)
-*(Python Backend & Verification System)*
-<br><br>
-Automated payment verification engine and secure transaction validation tool written in Python.<br><br>
-
-<b>Tech Specs:</b><br>
-<code>Python</code> <code>REST API</code> <code>Security</code><br><br>
-
-<a href="https://github.com/imkoushal/VerifPay">
-  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
 <td width="50%" valign="top">
 
 ### 🤖 [Sahayak-AI](https://github.com/imkoushal/Sahayak-AI)
@@ -162,6 +193,21 @@ Intelligent AI assistant platform designed to automate workflows and assist user
 </a>
 
 </td>
+<td width="50%" valign="top">
+
+### 🎯 [CareerLens](https://github.com/imkoushal) 🔨 *Building*
+*(AI Career Navigator for CS Students)*
+<br><br>
+AI-powered career navigator for Indian CS students. Upload resume + GitHub username → get role fit score, skill gap analysis, and personalised week-by-week roadmap. RAG over 100+ Indian job descriptions. India-first design with CGPA filter warnings.<br><br>
+
+<b>Tech Specs:</b><br>
+<code>Python</code> <code>LangChain</code> <code>Chroma</code> <code>Claude API</code> <code>FastAPI</code><br><br>
+
+<a href="https://github.com/imkoushal">
+  <img src="https://img.shields.io/badge/Status-%F0%9F%94%A8_Building-FFA500?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+</td>
 </tr>
 </table>
 
@@ -171,13 +217,26 @@ Intelligent AI assistant platform designed to automate workflows and assist user
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkoushal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Koushal's GitHub Stats" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imkoushal&theme=tokyonight&hide_border=true&background=0D1117" alt="Koushal's GitHub Streak" width="48%" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=imkoushal&theme=tokyonight&hide_border=true&background=0D1117" alt="Koushal's GitHub Streak" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkoushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <table width="100%">
+    <tr>
+      <td width="48%" align="center">
+        <a href="https://leetcode.com/imkoushal">
+          <img src="https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 100+ Solved" />
+        </a>
+        <br><br>
+        <code style="color:#00FF99;">LeetCode: 100+ Problems Solved</code>
+      </td>
+      <td width="48%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkoushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
