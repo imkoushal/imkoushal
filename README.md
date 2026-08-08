@@ -64,7 +64,7 @@ class KoushalRayDeveloper:
 <br><br>
 <img src="https://img.shields.io/badge/Status-Active_Building-00FF99?style=for-the-badge&logo=git&logoColor=black" />
 <br><br>
-<img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 <br><br>
 <img src="https://img.shields.io/badge/Open_To-AI_Engineer_Roles-0077B5?style=for-the-badge&logo=handshake&logoColor=white" />
 
@@ -216,27 +216,22 @@ AI-powered career navigator for Indian CS students. Upload resume + GitHub usern
 <h3 align="center">📈 Telemetry & Activity Logs</h3>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkoushal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Koushal's GitHub Stats" width="48%" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imkoushal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Koushal's GitHub Stats" width="48%" />
   <img align="center" src="https://streak-stats.demolab.com/?user=imkoushal&theme=tokyonight&hide_border=true&background=0D1117" alt="Koushal's GitHub Streak" width="48%" />
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="48%" align="center">
-        <a href="https://leetcode.com/imkoushal">
-          <img src="https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 100+ Solved" />
-        </a>
-        <br><br>
-        <code style="color:#00FF99;">LeetCode: 100+ Problems Solved</code>
-      </td>
-      <td width="48%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkoushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imkoushal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://leetcode.com/u/imkoushal/">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 200+ Problems Solved" />
+  </a>
 </div>
 
 ---
